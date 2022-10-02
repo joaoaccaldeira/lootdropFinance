@@ -1,7 +1,7 @@
 # LootdropFinance
 
-Website: https://lootdrop-a5ab0.web.app/
-Dashboard: https://lootdropdashboard.web.app/dashboard
+* Website: https://lootdrop-a5ab0.web.app/
+* Dashboard: https://lootdropdashboard.web.app/dashboard
 
 Lootdrop Finance is a cutting-edge decentralized protocol powered by API3 QRNG technology.
 
